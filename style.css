@@ -24,7 +24,8 @@ img {
 }
 
 #featured-property{
-  
+  background-color: #fff;
+   border-radius: 5px;
 }
 
 #featured-property p {
@@ -51,7 +52,7 @@ figcaption {
   color: white;
   padding: 40px;
   margin-top: 25px;
-  border-radius: 5px;
+ 
 }
 
 #details a {
