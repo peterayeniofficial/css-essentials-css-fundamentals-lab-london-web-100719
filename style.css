@@ -28,6 +28,7 @@ img {
    border-radius: 5px;
    width: 80%;
    display: block;
+   margin: 0 auto;
 }
 
 #featured-property p {
