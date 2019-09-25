@@ -10,7 +10,7 @@ img {
 }
 
 #featured-property{
-  color: white;
+  
 }
 
 #featured-property p {
@@ -33,6 +33,7 @@ figcaption {
 #details {
   display: block;
   background-color: #363636;
+  color: white;
 }
 
 
