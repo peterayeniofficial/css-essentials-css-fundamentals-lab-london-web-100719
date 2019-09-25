@@ -9,7 +9,6 @@ h1 {
 }
 
 nav{
-  
   display: flex;
   justify-content: center;
 }
@@ -51,6 +50,7 @@ figcaption {
   color: white;
   padding: 40px;
   margin-top: 25px;
+  border-radius: 5px;
 }
 
 #details a {
