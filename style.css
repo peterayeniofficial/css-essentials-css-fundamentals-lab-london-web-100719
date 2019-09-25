@@ -32,6 +32,7 @@ figcaption {
 
 #details {
   display: flex;
+  justify-content: space-between;
   background-color: #363636;
   color: white;
   padding: 20px;
