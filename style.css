@@ -21,6 +21,10 @@ nav a {
   cursor: pointer;
 }
 
+nav a:hover {
+  color: 
+}
+
 img {
   display: block;
   margin: 0 auto;
