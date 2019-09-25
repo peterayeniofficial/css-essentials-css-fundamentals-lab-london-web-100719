@@ -27,7 +27,7 @@ img {
   background-color: #fff;
    border-radius: 5px;
    width: 80%;
-   display: flex;
+   display: block;
 }
 
 #featured-property p {
