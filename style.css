@@ -4,7 +4,9 @@ body {
   margin: 0 auto;
 }
 
-
+img {
+  text-align: center;
+}
 
 #featured-property p {
   width: 800px;
