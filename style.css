@@ -29,6 +29,7 @@ img {
    width: 80%;
    display: block;
    margin: 0 auto;
+   padding: 20px;
 }
 
 #featured-property p {
