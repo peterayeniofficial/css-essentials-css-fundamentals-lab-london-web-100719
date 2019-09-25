@@ -26,6 +26,7 @@ img {
 #featured-property{
   background-color: #fff;
    border-radius: 5px;
+   width: 800px;
 }
 
 #featured-property p {
